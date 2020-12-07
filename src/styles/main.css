@@ -1,0 +1,6 @@
+@import url(header.css);
+.test {
+  background-color: black; }
+  .test__header {
+    color: orange;
+    font-size: 52px; }
